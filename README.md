@@ -36,3 +36,22 @@ Output : 0
 [Solution](https://github.com/Ratheshprabakar/Leetcode-30DayMayChallenge/blob/master/Day2.c)
 
 ---
+***Day 3*** :Given an arbitrary ransom note string and another string containing letters from all the magazines, write a function that will return true if the ransom note can be constructed from the magazines, otherwise, it will return false.
+
+Each letter in the magazine string can only be used once in your ransom note.
+
+Input : ransomNote = "a", magazine ="b"
+Ouput : false
+
+Input : ransomNote = "aa", magazine = "ab"
+Output : false
+
+Input : ransomeNote = "aa", magazine = "aab"
+Output : true
+
+You may assume that both strings contain only lowercase letters.
+
+[Solution](https://github.com/Ratheshprabakar/Leetcode-30DayMayChallenge/blob/master/Day3.c)
+
+---
+
