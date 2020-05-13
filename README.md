@@ -1,5 +1,7 @@
 # Leetcode-30DayMayChallenge
 This repository will contains the solutions for Leetcode-30DayMayChallenge
+
+
 ---
 
 ***Day 1*** :You are a product manager and currently leading a team to develop a new product. Unfortunately, the latest version of your product fails the quality check. Since each version is developed based on the previous version, all the versions after a bad version are also bad.
@@ -17,5 +19,20 @@ call isBadVersion(4) -> true
 Then 4 is the first bad version
 
 [Solution](https://github.com/Ratheshprabakar/Leetcode-30DayMayChallenge/blob/master/Day1.c)
+
+---
+***Day 2*** :You are given strings J representing the types of stones that are jewels, and S representing the stones you have. Each character in S is a type of stone you have. Each character in S is a type of stone you have. You want to know how many of the stones you have are also jewels.
+
+The letters in J are guaranteed distinct, and all characters in J and S are letters. Letters are case sensitive, so "a" is considered a different type of stone from "A".
+
+Example 1:
+Input : J="aA", S="aAAbbbb"
+Output : 3
+
+Example 2:
+Input : J="z", S="ZZ"
+Output : 0
+
+[Solution](https://github.com/Ratheshprabakar/Leetcode-30DayMayChallenge/blob/master/Day2.c)
 
 ---
