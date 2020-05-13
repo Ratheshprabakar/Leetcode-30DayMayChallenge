@@ -67,4 +67,15 @@ Explanation : The binary representation of 1 is 1 (no leeding zero bits), and it
 [Solution](https://github.com/Ratheshprabakar/Leetcode-30DayMayChallenge/blob/master/Day4.c)
 
 ---
+***Day 5*** :Given a string, find the first non-repeating character in it and return it's index. If it doesn't exist, return -1
+
+s="leetcode"
+return 0
+
+s="loveleetcode"
+return 2.
+
+[Solution](https://github.com/Ratheshprabakar/Leetcode-30DayMayChallenge/blob/master/Day5.c)
+
+---
 
