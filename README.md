@@ -91,4 +91,17 @@ Output : 2
 [Solution](https://github.com/Ratheshprabakar/Leetcode-30DayMayChallenge/blob/master/Day6.c)
 
 ---
+***Day 9*** :Given a positive integer num, write a function which returns True if num is a perfect square else false
+
+Note : Do not use any built-in library function such as sqrt.
+
+Input : 16
+Output : true
+
+Input : 14
+Output : false
+
+[Solution](https://github.com/Ratheshprabakar/Leetcode-30DayMayChallenge/blob/master/Day9.c)
+
+---
 
