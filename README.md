@@ -54,4 +54,17 @@ You may assume that both strings contain only lowercase letters.
 [Solution](https://github.com/Ratheshprabakar/Leetcode-30DayMayChallenge/blob/master/Day3.c)
 
 ---
+***Day 4*** :Given a positive integer, output its complement number. The complement strategy is to flip the bits of its binary representation.
+
+Input : 5
+Output : 2
+Explanation : The binary representation of 5 is 101(no leading zero bits), and its complement is 010. So you need to output 2.
+
+Input : 1
+Output : 0
+Explanation : The binary representation of 1 is 1 (no leeding zero bits), and its complement is 0. So you need to output 0.
+
+[Solution](https://github.com/Ratheshprabakar/Leetcode-30DayMayChallenge/blob/master/Day4.c)
+
+---
 
